@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "blazorFrontend",
   "resources": {
-    "hash": "sha256-Q8pWJvRlKiTRSDRD6NKKJeTKKUMh+WD014yxypLTPqU=",
+    "hash": "sha256-r1MZWMU/aek/C5uBCvX6MqMXXvpgi1AXAJyUdbqn+Xc=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.zbdjv414m7.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "BlazorBootstrap.wasm": "sha256-KvMCw6Z4ECWlPEz4jeQ0QWRGeVqaYlz5Xty6Qz3MwDc=",
-      "blazorFrontend.wasm": "sha256-bqkuflfi0vGNtZF2X0YV0Crxx/sywoKVqQTAyaBs0DU=",
+      "blazorFrontend.wasm": "sha256-S9fFvmeHkDK7AFNyLhY8cPwWBuS6+lvhB855R/I3TxU=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-AB7P72nA6ejuXLycHnmXmIfIqHR2kghw0gVj0mWflDc=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-IscJaog0U7NMO6Z/4If4hEoj69gcYwOvxYGuUMtWq8g=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-HHJGQmX88JDyJM7d2ahqtjgPhOIvs/iLJu2liPOxoPw=",
