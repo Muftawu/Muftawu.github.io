@@ -17,7 +17,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-TJwDZThRCGrNfbKUTjJdVB3MXvkhyXwT7QRuABBQURk=",
+      "hash": "sha256-kUNQ8Zp7Wa7WWTlB5YeNp\/Mf4V88YFNPkZNXkGGfl00=",
       "url": "index.html"
     },
     {
@@ -297,5 +297,5 @@
       "url": "_content\/Blazor.Bootstrap\/Blazor.Bootstrap.bundle.scp.css"
     }
   ],
-  "version": "aUCMnnJ1"
+  "version": "1HLSOyZj"
 };
